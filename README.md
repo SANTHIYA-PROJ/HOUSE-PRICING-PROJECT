@@ -1,3 +1,4 @@
+
 Welcome to the House Pricing Prediction App! This web app allows you to predict the price of a house based on its features like area, number of bedrooms, and other important factors. The app uses machine learning, specifically XGBoost, to give an accurate price estimate for any house.
 
 Features 🌟
