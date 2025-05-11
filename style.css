@@ -1,0 +1,10 @@
+/* style.css */
+body {
+    background-image: url("https://images.unsplash.com/photo-1568605114967-8130f3a36994");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1, h2, h3, p, label {
+    color: white !important;
+}
